@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
-<h3 align="center">An Amazon's Data Analyst and mostly self-taught fullstack developer from Poland 😁</h3>
+<h3 align="center">Amazon's Data Analyst and mostly self-taught fullstack developer from Poland 😁</h3>
 
 - 🔭 I’m currently working on [Jarvis](https://github.com/Myszu/Jarvis)
 
