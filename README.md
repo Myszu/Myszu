@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcin</h1>
 <h3 align="center">Amazon's Data Analyst and mostly self-taught fullstack developer from Poland 😁</h3>
 
-- 🔭 I’m currently working on [Jarvis](https://github.com/Myszu/Jarvis)
+- 🔭 I’m currently working on [Jarvis](https://github.com/Myszu/Jarvis), [Habit Calendar](https://github.com/Myszu/habit_calendar)
 
 - 🤝 I’m looking for help with **understanding JS 😅**
 
@@ -59,6 +59,7 @@
 <p align="center">
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://fastapi.tiangolo.com/img/icon-white.svg" alt="fastapi" width="40" height="40"/> </a>
 </p>
 
 <h2 align="left">Tests:</h2>
